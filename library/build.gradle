@@ -1,3 +1,4 @@
+// Modified by Faiz Agil Wirawan
 apply plugin: 'com.android.library'
 apply plugin: 'maven-publish'
 apply plugin: 'com.jfrog.bintray'

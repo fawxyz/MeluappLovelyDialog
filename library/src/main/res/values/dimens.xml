@@ -1,3 +1,4 @@
+<!-- Modified by Faiz Agil Wirawan -->
 <resources>
     <dimen name="ld_side_margin">@dimen/_22sdp</dimen>
     <dimen name="ld_side_cb_margin">@dimen/_16sdp</dimen>

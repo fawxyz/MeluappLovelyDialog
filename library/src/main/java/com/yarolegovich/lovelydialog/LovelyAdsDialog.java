@@ -1,3 +1,4 @@
+// Modified by Faiz Agil Wirawan
 package com.yarolegovich.lovelydialog;
 
 import android.content.Context;
