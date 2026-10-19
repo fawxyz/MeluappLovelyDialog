@@ -3,6 +3,8 @@
 
 This library is a set of simple wrapper classes that are aimed to help you easily create fancy material dialogs.
 
+**Modified fork:** this is a modified version of [LovelyDialog](https://github.com/yarolegovich/LovelyDialog) by Yaroslav Shevchuk. Files in this repository were changed by Faiz Agil Wirawan.
+
 ![Screenshots](https://raw.githubusercontent.com/yarolegovich/lovelydialog/master/art/lovelydialogs_framed.png)
 
 ## Gradle 
